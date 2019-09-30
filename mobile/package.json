@@ -1,0 +1,11 @@
+{
+  "name": "nn-mobile",
+  "version": "1.0.0",
+  "description": "Notify Now Mobile App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SG",
+  "license": "ISC"
+}
